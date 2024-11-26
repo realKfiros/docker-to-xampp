@@ -1,5 +1,5 @@
 {
-  "name": "this-is-not-xampp",
+  "name": "kfiros/this-is-not-xampp",
   "type": "project",
   "description": "A template to set up a local PHP development environment using Docker",
   "keywords": [
