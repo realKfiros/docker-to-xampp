@@ -16,7 +16,7 @@ services:
       - ./mysql_data:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: 12345678
-      MYSQL_DATABASE: very-neat-database
+      MYSQL_DATABASE: very_neat_database
       MYSQL_USER: kfiros
       MYSQL_PASSWORD: 12345678
     ports:
