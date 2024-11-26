@@ -1,5 +1,5 @@
 {
-  "name": "kfiros/xampp-to-docker",
+  "name": "this-is-not-xampp",
   "type": "project",
   "description": "A template to set up a local PHP development environment using Docker",
   "keywords": [
@@ -9,7 +9,7 @@
     "xdebug",
     "mysql"
   ],
-  "homepage": "https://github.com/realKfiros/docker-to-xampp",
+  "homepage": "https://github.com/realKfiros/this-is-not-xampp",
   "license": "MIT",
   "authors": [
     {
