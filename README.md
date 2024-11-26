@@ -1,5 +1,5 @@
 # Friendship ended with XAMPP! Now docker is my best friend
-![Packagist Version](https://img.shields.io/packagist/v/kfiros/xampp-to-docker)
+![Packagist Version](https://img.shields.io/packagist/v/kfiros/this-is-not-xampp)
 
 This is a simple docker-compose setup for local PHP development environment. It includes the following services:
 * PHP - `php:8.2-apache`
